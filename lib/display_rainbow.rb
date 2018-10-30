@@ -7,5 +7,5 @@ def display_rainbow(array_colors)
   print "#{letters[3]}: #{array_colors[3]}, "
   print "#{letters[4]}: #{array_colors[4]}, "
   print "#{letters[5]}: #{array_colors[5]}, "
-  print "#{letters[6]}: #{array_colors[6]}"
+  print "#{letters[6]}: #{array_colors[6]}\n"
 end
